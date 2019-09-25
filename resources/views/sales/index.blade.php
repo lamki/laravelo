@@ -5,7 +5,7 @@
     List of sales:
     
     @if(count($sales) > 0)
-    <table border="1">
+    <table border="1" class="table table-hover">
             <tr>
                 <td>Sales Person</td>
                 <td>Department</td>
